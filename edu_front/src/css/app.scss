@@ -1,0 +1,19 @@
+// app global css in SCSS form
+
+@font-face {
+  font-family: fjalla_One;
+  src: url(./fonts/Fjalla_One/FjallaOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: didact_gothic;
+  src: url(./fonts/Didact_Gothic/DidactGothic-Regular.ttf);
+}
+
+.myTitle{
+  font-family: fjalla_one;
+}
+
+.myText{
+  font-family: didact_gothic;
+}
